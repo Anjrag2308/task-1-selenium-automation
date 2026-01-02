@@ -4,7 +4,7 @@ CODTECH Internship Task 1: Selenium WebDriver Test Automation - Automated testin
 
 ## 🎬 Live Demo
 
-**[View Interactive Demo](https://htmlpreview.github.io/?https://github.com/wasimahamadsamani/task-1-selenium-automation/blob/main/SELENIUM-DEMO.html)**
+**[View Interactive Demo](https://htmlpreview.github.io/?https://github.com/Anjrag2308/task-1-selenium-automation/blob/main/SELENIUM-DEMO.html)**
 
 ## Project Overview
 
@@ -45,7 +45,7 @@ This is a comprehensive Selenium WebDriver automation framework implementing the
 ### Step 1: Clone the Repository
 
 ```bash
-git clone https://github.com/wasimahamadsamani/task-1-selenium-automation.git
+git clone https://github.com/Anjrag2308/task-1-selenium-automation.git
 cd task-1-selenium-automation
 ```
 
